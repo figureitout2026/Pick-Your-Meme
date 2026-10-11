@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Desk · Pick Your Meme",
+      "hasCanvas": false,
+      "bodyTextLen": 2257,
+      "bodyTextHash": "50d8318abc7c38b874ca63834230cac740ecce1b4897c7003ed208fe0beff529",
+      "bodyTextPrefix": "PY Pick Your Meme Desk Launch Mine Board PYM Connect Launch work",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Desk · Pick Your Meme",
+      "hasCanvas": false,
+      "bodyTextLen": 2257,
+      "bodyTextHash": "fc2901b89d8b20851d844c92cc8eaf7d9c0ce98ea789085123f43b788a087497",
+      "bodyTextPrefix": "PY Pick Your Meme Connect Launch worker deploys each coin on its",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

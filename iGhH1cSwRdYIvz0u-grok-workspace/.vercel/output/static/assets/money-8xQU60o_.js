@@ -1,0 +1,1 @@
+var e=.073,t=1e4,n=1e3,r=1e9;function i(){return Math.round(5/e*100)}export{i as a,r as i,n,e as r,t};

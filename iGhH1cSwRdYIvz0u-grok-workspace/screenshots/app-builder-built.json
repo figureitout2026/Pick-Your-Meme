@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Desk · Pick Your Meme",
+      "hasCanvas": false,
+      "bodyTextLen": 1600,
+      "bodyTextHash": "122cecdba68981129f7de11d2343d60af2da5d1754638a2743acb6c4318e8325",
+      "bodyTextPrefix": "PY Pick Your Meme Desk Launch Mine Board PYM Connect Fee clerk r",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Desk · Pick Your Meme",
+      "hasCanvas": false,
+      "bodyTextLen": 1600,
+      "bodyTextHash": "7a324b0ebc9a1a57d4560ed76aeed1467bc4f8e6391e3c89825090cfe447992c",
+      "bodyTextPrefix": "PY Pick Your Meme Connect Fee clerk runs on its own and pays eve",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

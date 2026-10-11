@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Desk · Pick Your Meme",
+      "hasCanvas": false,
+      "bodyTextLen": 2526,
+      "bodyTextHash": "c9cc3a1c50c6d61ccabc238b689ee77eb792d7ce1c988ff85373f74d20745a3c",
+      "bodyTextPrefix": "PY Pick Your Meme Desk Launch Mine Board PYM Connect Launch work",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Desk · Pick Your Meme",
+      "hasCanvas": false,
+      "bodyTextLen": 2526,
+      "bodyTextHash": "8f8d0b03efaa8b392ad1a6a0238e69267ba45c5a2c0f84e5ecf27febf7d5665a",
+      "bodyTextPrefix": "PY Pick Your Meme Connect Launch worker deploys each coin on its",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/prod-preview.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (2257 -> 2526 chars, hash mismatch)",
+    "mobile: body text changed (2257 -> 2526 chars, hash mismatch)"
+  ]
+}
